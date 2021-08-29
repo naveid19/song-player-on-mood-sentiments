@@ -1,0 +1,155 @@
+﻿	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Hindi MP3 Songs, Bollywood Old Movie Songs, Pakistani Songs - Songx.PK</title>
+    <meta name="Description"
+          content="SongXs.pk provides wide collection of Pakistani and Indian music to music lover all over the world. We give all songs in mp3 format, along with lyrics and HD videos."/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link href="/style.css" rel="stylesheet" type="text/css"/>
+    <meta name="google-site-verification" content="K9b17hqsV42UYTRRj1gY1eeBM9CeKgT0hfXk8r2hrCg" />
+    <link href="/favicon.ico" rel='shortcut icon'/>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/js/helper.js"></script>
+</head>
+<body>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <a class="navbar-brand" href="/"><img src="/img/logo.png"
+                                              class="img-responsive"></a>
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-left">
+                <li><a href="/hindi-songs">Hindi Songs</a></li>
+            </ul>
+            <form role="form" id="searchform" method="get" action="/">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-8">
+                        <div class="input-group" style="padding:10px 0;">
+                            <input type="text" autocomplete="off" class="form-control" id="query" name="q"
+                                   placeholder="Type Track Name and Press Search Button" required>
+                            <span class="input-group-btn">
+<button class="btn btn-success" id="searchsubmit" type="submit"><span class="glyphicon glyphicon-search"></span>
+</button>
+</span>
+                        </div>
+                        <div id="tag_update"></div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div id="header-spacer">&nbsp;</div>
+<div class="container">
+    <div class="header-wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="col-sm-6 col-md-4" style="padding: 0px !important">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3 style="margin-top: 0px !important;">Best Songs</h3>
+
+                            <p>
+                                &raquo; <a title="Wedding Anniversary Songs Download" href="/hindi-songs/wedding-anniversary.html">Wedding Anniversary mp3</a><br>&raquo; <a title="Irada Songs Download" href="/hindi-songs/irada.html">Irada mp3</a><br>&raquo; <a title="Running Shaadi.Com Songs Download" href="/hindi-songs/running-shaadi-com.html">Running Shaadi.Com mp3</a><br>&raquo; <a title="Best Party Mashups - DJ Chetas (2017) Songs Download" href="/hindi-songs/best-party-mashups-dj-chetas-2017.html">Best Party Mashups - DJ Chetas (2017) mp3</a><br>&raquo; <a title="Rangoon Songs Download" href="/hindi-songs/rangoon.html">Rangoon mp3</a><br>&raquo; <a title="Coffee with D (2017) Songs Download" href="/hindi-songs/coffee-with-d-2017.html">Coffee with D (2017) mp3</a><br>&raquo; <a title="OK Jaanu (2017) Songs Download" href="/hindi-songs/ok-jaanu-2017.html">OK Jaanu (2017) mp3</a><br>&raquo; <a title="Raees (2017) Songs Download" href="/hindi-songs/raees-2017.html">Raees (2017) mp3</a><br>&raquo; <a title="Jolly Ll.B 2 (2017) Songs Download" href="/hindi-songs/jolly-ll-b-2-2017.html">Jolly Ll.B 2 (2017) mp3</a><br>&raquo; <a title="Kaabil (2017) Songs Download" href="/hindi-songs/kaabil-2017.html">Kaabil (2017) mp3</a><br>                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4" style="padding: 0 2px !important">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3 style="margin-top: 0px !important;">New Songs</h3>
+
+                            <p>
+                                &raquo; <a title="Kahaani 2 (2016) Songs Download" href="/hindi-songs/kahaani-2-2016.html">Kahaani 2 (2016) mp3</a><br>&raquo; <a title="Dangal (2016) Songs Download" href="/hindi-songs/dangal-2016.html">Dangal (2016) mp3</a><br>&raquo; <a title="Dear Zindagi (2016) Songs Download" href="/hindi-songs/dear-zindagi-2016.html">Dear Zindagi (2016) mp3</a><br>&raquo; <a title="Saansein (2016) Songs Download" href="/hindi-songs/saansein-2016.html">Saansein (2016) mp3</a><br>&raquo; <a title="Dongri Ka Raja (2016) Songs Download" href="/hindi-songs/dongri-ka-raja-2016.html">Dongri Ka Raja (2016) mp3</a><br>&raquo; <a title="Wajah Tum Ho (2016) Songs Download" href="/hindi-songs/wajah-tum-ho-2016.html">Wajah Tum Ho (2016) mp3</a><br>&raquo; <a title="Aap Se Mausiiquii (2016) Songs Download" href="/hindi-songs/aap-se-mausiiquii-2016.html">Aap Se Mausiiquii (2016) mp3</a><br>&raquo; <a title="Force 2 (2016) Songs Download" href="/hindi-songs/force-2-2016.html">Force 2 (2016) mp3</a><br>&raquo; <a title="Befikre (2016) Songs Download" href="/hindi-songs/befikre-2016.html">Befikre (2016) mp3</a><br>&raquo; <a title="Tutak Tutak Tutiya (2016) Songs Download" href="/hindi-songs/tutak-tutak-tutiya-2016.html">Tutak Tutak Tutiya (2016) mp3</a><br>                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4" style="padding: 0px !important">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3 style="margin-top: 0px !important;">Most favourite Songs</h3>
+
+                            <p>
+                                &raquo; <a title="Ae Dil Hai Mushkil (2016) Songs Download" href="/hindi-songs/ae-dil-hai-mushkil-2016.html">Ae Dil Hai Mushkil (2016) mp3</a><br>&raquo; <a title="Tum Bin 2 (2016) Songs Download" href="/hindi-songs/tum-bin-2-2016.html">Tum Bin 2 (2016) mp3</a><br>&raquo; <a title="Fuddu (2016) Songs Download" href="/hindi-songs/fuddu-2016.html">Fuddu (2016) mp3</a><br>&raquo; <a title="Shivaay (2016) Songs Download" href="/hindi-songs/shivaay-2016.html">Shivaay (2016) mp3</a><br>&raquo; <a title="Rock On 2 (2016) Songs Download" href="/hindi-songs/rock-on-2-2016.html">Rock On 2 (2016) mp3</a><br>&raquo; <a title="Love Day - Pyaar Kaa Din (2016) Songs Download" href="/hindi-songs/love-day-pyaar-kaa-din-2016.html">Love Day - Pyaar Kaa Din (2016) mp3</a><br>&raquo; <a title="Mirzya (2016) Songs Download" href="/hindi-songs/mirzya-2016.html">Mirzya (2016) mp3</a><br>&raquo; <a title="Ek Kahani Julie Ki (2016) Songs Download" href="/hindi-songs/ek-kahani-julie-ki-2016.html">Ek Kahani Julie Ki (2016) mp3</a><br>&raquo; <a title="Pink (2016) Songs Download" href="/hindi-songs/pink-2016.html">Pink (2016) mp3</a><br>&raquo; <a title="Freaky Ali (2016) Songs Download" href="/hindi-songs/freaky-ali-2016.html">Freaky Ali (2016) mp3</a><br>                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <br clear="all"/>
+
+                <div align="center" style="margin-bottom:10px;">
+                    <center>
+                    </center>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><span title="Now Playing"
+                                                      class="glyphicon glyphicon-play-circle"></span>Tracks Playing Now
+                        </h3>
+                    </div>
+                    <div class="panel-body">
+                        <a href="/mauizhoh-maulid-nabi-oleh-kh.html" class="btn btn-tag btn-xs" title="Mauizhoh Maulid Nabi Oleh Kh">Mauizhoh Maulid Nabi Oleh Kh</a><a href="/new-jack-swing-mix-by-dj-all.html" class="btn btn-tag btn-xs" title="New Jack Swing Mix By Dj All">New Jack Swing Mix By Dj All</a><a href="/usililo-mbete-penton-musyoka.html" class="btn btn-tag btn-xs" title="Usililo Mbete Penton Musyoka">Usililo Mbete Penton Musyoka</a><a href="/you-was-right-clean-lil-uzi.html" class="btn btn-tag btn-xs" title="You Was Right Clean Lil Uzi">You Was Right Clean Lil Uzi</a><a href="/maiyar-ma-mandu-nathi-lagtu-2.html" class="btn btn-tag btn-xs" title="Maiyar Ma Mandu Nathi Lagtu 2">Maiyar Ma Mandu Nathi Lagtu 2</a><a href="/gubah-al-haddad-salamullah-ya.html" class="btn btn-tag btn-xs" title="Gubah Al Haddad Salamullah Ya">Gubah Al Haddad Salamullah Ya</a><a href="/darling-its-u-by-gram-morgans.html" class="btn btn-tag btn-xs" title="Darling Its U By Gram Morgans">Darling Its U By Gram Morgans</a><a href="/grimes-oblivion.html" class="btn btn-tag btn-xs" title="Grimes Oblivion">Grimes Oblivion</a><a href="/lady-gaga-press-conference-for.html" class="btn btn-tag btn-xs" title="Lady Gaga Press Conference For">Lady Gaga Press Conference For</a><a href="/ngongo.html" class="btn btn-tag btn-xs" title="Ngongo">Ngongo</a><a href="/wayang-golek-lucu-dalang-entus.html" class="btn btn-tag btn-xs" title="Wayang Golek Lucu Dalang Entus">Wayang Golek Lucu Dalang Entus</a><a href="/chanyeol-x-d-o-exo-love.html" class="btn btn-tag btn-xs" title="Chanyeol X D O Exo Love">Chanyeol X D O Exo Love</a><a href="/wada-karo-ye-k-sath-tum-full.html" class="btn btn-tag btn-xs" title="Wada Karo Ye K Sath Tum Full">Wada Karo Ye K Sath Tum Full</a><a href="/hay-nako-classmates-sound.html" class="btn btn-tag btn-xs" title="Hay Nako Classmates Sound">Hay Nako Classmates Sound</a><a href="/admiral-bee-bad-year-for-rock.html" class="btn btn-tag btn-xs" title="Admiral Bee Bad Year For Rock">Admiral Bee Bad Year For Rock</a><a href="/suara-burung-kelincer.html" class="btn btn-tag btn-xs" title="Suara Burung Kelincer">Suara Burung Kelincer</a><a href="/tshifhinga-tshothe-real.html" class="btn btn-tag btn-xs" title="Tshifhinga Tshothe Real">Tshifhinga Tshothe Real</a><a href="/lemon-jutro.html" class="btn btn-tag btn-xs" title="Lemon Jutro">Lemon Jutro</a><a href="/rwby-this-will-be-the-day.html" class="btn btn-tag btn-xs" title="Rwby This Will Be The Day">Rwby This Will Be The Day</a><a href="/don-carlos-jah-jah-hear-my.html" class="btn btn-tag btn-xs" title="Don Carlos Jah Jah Hear My">Don Carlos Jah Jah Hear My</a>                    </div>
+                </div>
+                <br clear="all"/>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><span title="Forever Songs" class="glyphicon glyphicon-fire"></span>
+                            Forever Young Songs</h3>
+                    </div>
+                    <div class="panel-body">
+                        <a href="/korean-drama-cover-without.html" class="btn btn-tag btn-xs" title="Korean Drama Cover Without">Korean Drama Cover Without</a><a href="/yang-sedang-sedang-saja.html" class="btn btn-tag btn-xs" title="Yang Sedang Sedang Saja">Yang Sedang Sedang Saja</a><a href="/sholo-mwamba-kibao-kata-audio.html" class="btn btn-tag btn-xs" title="Sholo Mwamba Kibao Kata Audio">Sholo Mwamba Kibao Kata Audio</a><a href="/buchi-preach-the-gospel.html" class="btn btn-tag btn-xs" title="Buchi Preach The Gospel">Buchi Preach The Gospel</a><a href="/kyuasini-raha-vcd-2-6.html" class="btn btn-tag btn-xs" title="Kyuasini Raha Vcd 2 6">Kyuasini Raha Vcd 2 6</a><a href="/dj-scarface-benny-bubblez-vs.html" class="btn btn-tag btn-xs" title="Dj Scarface Benny Bubblez Vs">Dj Scarface Benny Bubblez Vs</a><a href="/alpa-patel-bhajan-gujarati-lok.html" class="btn btn-tag btn-xs" title="Alpa Patel Bhajan Gujarati Lok">Alpa Patel Bhajan Gujarati Lok</a><a href="/sughamo-devi.html" class="btn btn-tag btn-xs" title="Sughamo Devi">Sughamo Devi</a><a href="/eve-ft-alicia-keys-gangsta.html" class="btn btn-tag btn-xs" title="Eve Ft Alicia Keys Gangsta">Eve Ft Alicia Keys Gangsta</a><a href="/chappan-ni-chhati-hu-gujrati.html" class="btn btn-tag btn-xs" title="Chappan Ni Chhati Hu Gujrati">Chappan Ni Chhati Hu Gujrati</a><a href="/shri-hanuman-gayatri-mantra.html" class="btn btn-tag btn-xs" title="Shri Hanuman Gayatri Mantra">Shri Hanuman Gayatri Mantra</a><a href="/maria-kelly-stitches-declan.html" class="btn btn-tag btn-xs" title="Maria Kelly Stitches Declan">Maria Kelly Stitches Declan</a><a href="/messi-argentina-vs-neymar.html" class="btn btn-tag btn-xs" title="Messi Argentina Vs Neymar">Messi Argentina Vs Neymar</a><a href="/nia-daniaty-burungpun-ingat.html" class="btn btn-tag btn-xs" title="Nia Daniaty Burungpun Ingat">Nia Daniaty Burungpun Ingat</a><a href="/spazzie-riddim.html" class="btn btn-tag btn-xs" title="Spazzie Riddim">Spazzie Riddim</a><a href="/augest-alsina-why-do-it.html" class="btn btn-tag btn-xs" title="Augest Alsina Why Do It">Augest Alsina Why Do It</a><a href="/veer-sai-band-bandharpada.html" class="btn btn-tag btn-xs" title="Veer Sai Band Bandharpada">Veer Sai Band Bandharpada</a><a href="/vaaranam-ayiram-vaaranam.html" class="btn btn-tag btn-xs" title="Vaaranam Ayiram Vaaranam">Vaaranam Ayiram Vaaranam</a><a href="/olavina-geleyane.html" class="btn btn-tag btn-xs" title="Olavina Geleyane">Olavina Geleyane</a><a href="/sambhal-by-shri-dev-mamledar.html" class="btn btn-tag btn-xs" title="Sambhal By Shri Dev Mamledar">Sambhal By Shri Dev Mamledar</a>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div align="center" class="col-md-12">
+    <br>
+
+    <p class="text-muted">Copyright &copy; 2001 - 2017 <a href="/">xSongs.PK</a>. <a href="/pages/static/contact.php">Contact
+            us</a>
+        - <a href="/pages/static/disclaimer.php">Disclaimer</a>
+    </p>
+</div>
+<div align="center" style="margin-bottom:10px;">
+
+</div>
+<div class="scroll-top-wrapper ">
+<span class="scroll-top-inner">
+<font style="font-size:30px;">
+    <span title="Back to Top" class="glyphicon glyphicon-circle-arrow-up"></span>
+</font>
+</span>
+</div>
+<div id="scrollbubble"></div>
+    <div style="visibility:hidden">
+        <img src="http://whos.amung.us/swidget/h20u7k1bx8da.png" alt="songs.pk" width="0" height="0"/>
+        <!-- Yandex.Metrika counter -->
+        <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+        <script type="text/javascript">try {
+                var yaCounter28114533 = new Ya.Metrika({id: 28114533});
+            } catch (e) {
+            }</script>
+        <noscript>
+            <div><img src="//mc.yandex.ru/watch/28114533" style="position:absolute; left:-9999px;" alt=""/></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+    </div>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
